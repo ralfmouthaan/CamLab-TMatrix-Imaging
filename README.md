@@ -13,6 +13,6 @@ For the scripts to run, the following needs to be included in the same directory
 - The scrambled images, as obtained from CamLab-TMatrix-Measurement
 - The target image, as calcualted using the scripts in "Target Generation/"
 
-Error metrics are calcualted for within a region of interest.
+Error metrics are calculated for within a region of interest.
 
 With minor modifications these scripts could be used to also image non-SLM targets.
